@@ -3,6 +3,7 @@ from math import gcd
 input_num1 = '4/5'
 input_num2 = '3/4'
 
+
 def fr_operations(fract1, fract2):
     split1 = fract1.split("/")
     split2 = fract2.split("/")
