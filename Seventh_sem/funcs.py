@@ -30,6 +30,27 @@ def func_create_file(directory):
         name = func_generate_name()
         func_append(directory + name + file_type)
 
+def func_make_sorted(directory):
+    os.chdir(directory)
+    folders_dict = {"text" : 'txt, docx, doc, nd',
+                    "video" : 'avi, gpeg3, mp4',
+                    "script" : 'py, java, sma, lua'}
+    folders_dir = os.chdir("..")
+    folders_list = os.listdir(folders_dir)
+    print(folders_list)
+    for folder in folders_dict.keys():
+        if folder not in folders_list:
+            os.mkdir(str(folder))
+    files_list = os.listdir(directory)
+    print(files_list)
+    print(folders_dir)
+    # for file in files_list:
+    #     name = file.split(".")
+    #     file_type = "." + name[1]
+    #     for folder in folders:
+    #         if file_type in folder:
+    #             os.replace(f'{name}.{file_type}',f'{folders_dir}{folder}')
+
 
 def func_rename(directory, name_range=[3, 6]):
     os.chdir(directory)
@@ -38,9 +59,9 @@ def func_rename(directory, name_range=[3, 6]):
         f'В директории "{directory}" есть файлы: {files_list}\nЖелаете их переименовать? Y/N: ')
     match answer.lower():
         case "y":
-            file_type = "." + input("Введите расширение файла: ")
             for file in files_list:
                 name = file.split(".")
+                file_type = "." + name[1]
                 ranged_name = name[0][name_range[0]:name_range[1]]
                 number = "_" + str(files_list.index(file) + 1)
                 get_name = input(f'Введите новое имя для {name[0]}: ')
@@ -56,9 +77,9 @@ def func_rename(directory, name_range=[3, 6]):
 def menu(directory):
     status = True
     while status == True:
-        menu_answer = int(input("\n1. Создать файл.\
-                                \n2. Посмотреть список файлов и переименовать их.\
-                                \n3. Выход\nВыберите пункт меню: "))
+        menu_answer = int(input("\n1. Создать файл\
+                                \n2. Посмотреть список файлов и переименовать их\
+                                \n3. Выход\n4. Отсортировать файлы\nВыберите пункт меню: "))
         match menu_answer:
             case 1:
                 func_create_file(directory)
@@ -67,6 +88,8 @@ def menu(directory):
             case 3:
                 print("Работа окончена, выход...")
                 status = False
+            case 4:
+                func_make_sorted(directory)
             case _:
                 print("Команда не распознана")
     return
