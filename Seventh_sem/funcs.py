@@ -2,6 +2,7 @@ import os
 import random as rnd
 from string import ascii_lowercase
 
+WORK_DIRECTORY = os.getcwd()
 
 def func_append(name: str, lines=10):
     file = open(name, "w", encoding="utf-8")
@@ -24,37 +25,36 @@ def func_generate_name(size_min=4, size_max=7):
 
 
 def func_create_file(directory):
+    os.chdir(WORK_DIRECTORY + directory)
     count = int(input("Сколько файлов создать?: "))
     file_type = "." + input("Введите расширение файла: ")
     for i in range(count):
         name = func_generate_name()
-        func_append(directory + name + file_type)
+        func_append(name + file_type)
 
 def func_make_sorted(directory):
-    os.chdir(directory)
+    os.chdir(WORK_DIRECTORY + directory)
     folders_dict = {"text" : 'txt, docx, doc, nd',
                     "video" : 'avi, gpeg3, mp4',
                     "script" : 'py, java, sma, lua'}
-    folders_dir = os.chdir("..")
-    folders_list = os.listdir(folders_dir)
-    print(folders_list)
+    folders_list = os.listdir()
     for folder in folders_dict.keys():
         if folder not in folders_list:
             os.mkdir(str(folder))
-    files_list = os.listdir(directory)
-    print(files_list)
-    print(folders_dir)
-    # for file in files_list:
-    #     name = file.split(".")
-    #     file_type = "." + name[1]
-    #     for folder in folders:
-    #         if file_type in folder:
-    #             os.replace(f'{name}.{file_type}',f'{folders_dir}{folder}')
-
+    for file in folders_list:
+        name = file.split(".")
+        if len(name) > 1:
+            for key in folders_dict.keys():
+                if name[1] in folders_dict.get(key):
+                    os.replace(file, os.getcwd()+ "\\" + key + "\\" + file)
 
 def func_rename(directory, name_range=[3, 6]):
-    os.chdir(directory)
-    files_list = os.listdir()
+    os.chdir(WORK_DIRECTORY + directory)
+    all_files = os.listdir()
+    files_list = []
+    for file in all_files:
+        if len(file.split("."))>1:
+            files_list.append(file)
     answer = input(
         f'В директории "{directory}" есть файлы: {files_list}\nЖелаете их переименовать? Y/N: ')
     match answer.lower():
@@ -79,17 +79,22 @@ def menu(directory):
     while status == True:
         menu_answer = int(input("\n1. Создать файл\
                                 \n2. Посмотреть список файлов и переименовать их\
-                                \n3. Выход\n4. Отсортировать файлы\nВыберите пункт меню: "))
+                                \n3. Отсортировать файлы\n4. Выход\nВыберите пункт меню: "))
         match menu_answer:
             case 1:
                 func_create_file(directory)
             case 2:
                 func_rename(directory)
             case 3:
+                func_make_sorted(directory)
+            case 4:
                 print("Работа окончена, выход...")
                 status = False
-            case 4:
-                func_make_sorted(directory)
             case _:
                 print("Команда не распознана")
     return
+
+if __name__ == "__main__":
+    work_directory = '\\Seventh_sem\\files\\'
+
+    menu(work_directory)
