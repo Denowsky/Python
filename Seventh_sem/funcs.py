@@ -95,6 +95,7 @@ def menu(directory):
     return
 
 if __name__ == "__main__":
+    # work_directory = input("Введите путь: ")
     work_directory = '\\Seventh_sem\\files\\'
 
     menu(work_directory)
