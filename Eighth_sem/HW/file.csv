@@ -1,0 +1,134 @@
+Родительская директория,Директории,Файлы
+C:\Users\Densa\OneDrive\Документы\pth,"['.git', '.vscode', 'Eighth_sem', 'Fifth_sem', 'First_Sem', 'Fourth_sem', 'Second_sem', 'Seventh_sem', 'Sixth_sem', 'Third_sem']",[]
+C:\Users\Densa\OneDrive\Документы\pth\.git,"['hooks', 'info', 'logs', 'objects', 'refs']","['COMMIT_EDITMSG', 'config', 'description', 'FETCH_HEAD', 'HEAD', 'index', 'ORIG_HEAD']"
+C:\Users\Densa\OneDrive\Документы\pth\.git\hooks,[],"['applypatch-msg.sample', 'commit-msg.sample', 'fsmonitor-watchman.sample', 'post-update.sample', 'pre-applypatch.sample', 'pre-commit.sample', 'pre-merge-commit.sample', 'pre-push.sample', 'pre-rebase.sample', 'pre-receive.sample', 'prepare-commit-msg.sample', 'push-to-checkout.sample', 'update.sample']"
+C:\Users\Densa\OneDrive\Документы\pth\.git\info,[],['exclude']
+C:\Users\Densa\OneDrive\Документы\pth\.git\logs,['refs'],['HEAD']
+C:\Users\Densa\OneDrive\Документы\pth\.git\logs\refs,"['heads', 'remotes']",[]
+C:\Users\Densa\OneDrive\Документы\pth\.git\logs\refs\heads,[],['main']
+C:\Users\Densa\OneDrive\Документы\pth\.git\logs\refs\remotes,['origin'],[]
+C:\Users\Densa\OneDrive\Документы\pth\.git\logs\refs\remotes\origin,[],['main']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects,"['00', '02', '03', '0a', '0c', '0f', '10', '18', '1a', '1b', '1d', '1e', '20', '2a', '2b', '33', '39', '3d', '3e', '41', '45', '49', '4a', '4b', '4c', '4d', '4e', '53', '5f', '63', '6c', '6f', '71', '73', '75', '76', '77', '7c', '7d', '7f', '88', '8b', '8c', '8d', '95', '97', '9a', '9d', '9e', 'a1', 'a7', 'aa', 'ab', 'af', 'b1', 'b2', 'b4', 'ba', 'bd', 'be', 'c0', 'c2', 'c5', 'c6', 'c8', 'c9', 'cc', 'ce', 'd0', 'd2', 'd6', 'd8', 'da', 'dd', 'de', 'df', 'e4', 'e5', 'e6', 'e7', 'ed', 'f2', 'f3', 'f7', 'f8', 'fc', 'info', 'pack']",[]
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\00,[],"['20f7a2f1185aaa501f8a88f82a4857426be2f4', '4d4f000a7c463d5e410015293b2d707bf7315f']"
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\02,[],['ff68ed273509ef41e9eb0eea7fd7d5498639a3']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\03,[],['1503e66be04750cb47a1eb5dc004e96f5780c8']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\0a,[],['e8c4a2e676d698b4dc21438bffa83b0ab8cf44']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\0c,[],['fd79361b8295f1b42437ab294bf1097f062526']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\0f,[],['1324dbef854b87215a4ba175fd859fc508ad1a']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\10,[],"['3ce19a7ba9bdc28e0e428d509eb90035c291e9', 'deb7c97fe53435fb5ca8bf9edf9012fecb9345']"
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\18,[],['f7041a8c2f1a2987739642b449024e26c78983']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\1a,[],['67524fe1371ec11bb004a0766d58a83c717718']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\1b,[],['c8758fc943e5bb0f0e8e44898c349bcbd7c7ac']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\1d,[],"['1fbd79a3eb9040fe252f204a8e7eb2ff937e44', '6df05bd301163feecfcedc0e775da6cae5138c']"
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\1e,[],['7867dc1f0ecf92aebd12256974cc5ae9f7ee4d']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\20,[],['372854ec132c55a424c4d83460181e1da7bc60']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\2a,[],"['0dd93c651f51acc567e46101b476f406efad36', 'b6c40a13c3f63f1f3bf8b5fc30a8f8f3a67b3d', 'e09a5f8ce647be81cac266830e27d8cafd344d']"
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\2b,[],"['0bf0517495caa297ec489783251c53441b2ee6', '25ef7fb9e103dc9b919eb9967df6a851233495']"
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\33,[],['dccca36e87e806ede08dea5cfb3f2bdf895876']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\39,[],['5519ac19ed9b3594423e39302c638331f5e80f']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\3d,[],['1c3d3a89730aeaa2dc7e4659f31f1a87b0e160']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\3e,[],"['3bd77b1eb5f94db9938703864ffba075f58384', '6b74fe3ab47314d8567c749bb7f183b9d83d1c']"
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\41,[],['7228ed025ce4b65fd55b2aebecde64c1059ca3']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\45,[],['b7858658ffab8616d12c3d681c93dd0ce49381']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\49,[],['cf5b547126a739404f14442f1a02867b7baf30']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\4a,[],['34c9928b6f9751ec3213532ad0330cc2566ae7']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\4b,[],['168842675878aea1a3c89640b94a66b89de51d']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\4c,[],['5b6ec473f8cfe559d474ded02091a5ea8f205a']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\4d,[],['aa39e6f227ceb90446baffaba873c6872ec10a']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\4e,[],['0c083c769cc8e6540aad06e54822d63db32b18']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\53,[],['5e49b0541ca7941a5e9f1302fb40af26ed1f02']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\5f,[],['9b744a2ef1c3976331412211df110b33b3598a']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\63,[],"['82247deead96d4bc7255666a8f2864447398cf', 'a5269a7a690b611473401cd23ed6ae3e149e06']"
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\6c,[],['fdf8cce85b86123ce229523638bb2952676595']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\6f,[],['554594fad29bb958a2117bc18e69dfe6748f78']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\71,[],['366c7e6551ec3b07d20cb62b66494f0378a9f9']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\73,[],['3c87717197087d7333564a3bb0e55da5a2c98d']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\75,[],['419e2d78cf316d7b935d983251637fbd7d40de']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\76,[],['d8259f8abc07ceafbb1e5f18a252726cf265c9']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\77,[],"['2995a46cd740124d86278ee4edb69dc4050701', '4258d3060fc20c3ca78d25ec4d47ccfca9944a']"
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\7c,[],['b2e6d5e1576a458fbf4716f121f24233f163af']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\7d,[],['0e9b51e0ee7e9c1c4794efea752495257e8c0a']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\7f,[],['e7a8b88178c68c06564e046af9892d7ff52aba']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\88,[],['bcef058707df52c867ce3d7a33ee0f1c4a66c3']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\8b,[],['bbb90d7d44e3be24bc83124e7ae5462ac7f566']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\8c,[],['321ba375de25bffd0cbe71462bc641c8748e67']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\8d,[],['ce8d0fab21fd67205e8f0cd34e41ac190189cd']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\95,[],['3633c10301a98005939a4fb2ded7ca2a862c1f']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\97,[],['9baf368f80a440214cbad48279becaa4ce9bc8']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\9a,[],['82d91e278bc51e0a09d369555c020ed3fdfae3']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\9d,[],['a9064cec05899942d538c935de3e4336050386']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\9e,[],['e86e71a063b6c5145273dc32c94f8efbf7fcb1']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\a1,[],"['09ed266dedbca83f0cead756796753d6b524e9', '7a1e41828119a342e9d9311ebb2313d9c2bfca']"
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\a7,[],['b15a1b1cb4e44f35b6929a67a3047bdcd5dd0c']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\aa,[],"['1771143b7fd26c70fe38b859e37cd2b44c7f3b', '46827ee69d683cabe307583a8dfc2cabf8e1a4', '4d0a2c3b9953a400405cd81eff3f3bbe78fa4b']"
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\ab,[],"['9de30047a776c8a056a4c2e94d74a2c77f3d8e', 'a469e2803bdf4d9a2a6652786f74c72d4c7b4f']"
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\af,[],['82219017143c5f5d540733c7aa7e2adea62877']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\b1,[],['bfecc06a0c8c4e8f1401e8a2a98f6715210ae0']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\b2,[],['9c401c0116b62303c5a5b0b253efcf55a9bff2']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\b4,[],['9cfb0bdcd80fecc47ed5473b7ea15d526cfe82']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\ba,[],"['879aa3ce2dc54f4619c3568b379d71a029958d', '908a12d8122f69c5c09aa6e4434870c8b2fd0a', 'dac9c56f1a9adcb682f5cd57189cd6e32f098e']"
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\bd,[],"['d314b281d7e886b07a48d2f97777b9778e6bc1', 'e3296793d7c555d8cee16f5052e853c4ee1074']"
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\be,[],['398939480bb275b0412e090f435461baa30570']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\c0,[],['78b1cba5e77f5fc2e78e6e4640f0ece80d5165']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\c2,[],['5cec05c9fc8d1510cd3c139d51fd26e2f57d8c']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\c5,[],"['0eabf4341568cf7301a8cc634a6d201f4d53ba', 'ee84c5d31988da8315c6a78f5572464b17c092']"
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\c6,[],['fcc8be5405099a6994c98a6c1f4705325720cf']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\c8,[],['a411b9809ec1fd8fe307c92f56a7df131b9fd0']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\c9,[],['9dd9bb824af0988803a31e46488e40a4defa08']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\cc,[],['3c2698d07d10c5c9b0ad5a458128dd6055344c']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\ce,[],['f1cced5a5d9014b3b4ba960ff7aeecfc7eeaee']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\d0,[],['d11b0626e5ab3c6312b69ebb58ba2bb5be27fc']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\d2,[],['6b4459c08307c689b0d4bb58697fdc4d9684c1']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\d6,[],['1a2d80741afc14de97596031b7329f818e84e4']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\d8,[],['f5b255c8857fa443a334e3a7a27b2f69b4709f']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\da,[],['076f309072267c30f6b8d4e276897dccd9da4c']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\dd,[],['3bbc91edf40ed8299bc9a37e3a4bfeb5c98971']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\de,[],['bce6777d8e956dd7e95da2549930f5f92ba424']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\df,[],['e3905a94357ef04dacc417ea9e0be2cde45d26']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\e4,[],['d44138728dbfc5b778db8933844c1a3723c705']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\e5,[],['7ea28da1c4dd295d5a2df9073fabb727be2177']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\e6,[],['9de29bb2d1d6434b8b29ae775ad8c2e48c5391']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\e7,[],['0f7cb56679c4d788086482364ba0a1167dc369']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\ed,[],"['010e73a24dc19cf820e06af5e9239946201f71', '0cfc864087748ae84f0dbe3e06921d88ecd580']"
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\f2,[],['4363c6e8d52abaae4b36a572eabf94215e4ee6']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\f3,[],"['adea2930b6f22c287a1fb65d5d0e4407b0e5b3', 'e5f11af70fe0d09c7048ce17e9df9ac40d6217']"
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\f7,[],['8ed711c21dbb950013df64812dbe09f7b0a85f']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\f8,[],['441fee0fd6f04511ee95ae29345144a09b33d3']
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\fc,[],"['04d43e246d4cbd7616da94a714e157422a9962', 'ca0286e7a36eb8bfba19b467097f26519a0168']"
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\info,[],[]
+C:\Users\Densa\OneDrive\Документы\pth\.git\objects\pack,[],[]
+C:\Users\Densa\OneDrive\Документы\pth\.git\refs,"['heads', 'remotes', 'tags']",[]
+C:\Users\Densa\OneDrive\Документы\pth\.git\refs\heads,[],['main']
+C:\Users\Densa\OneDrive\Документы\pth\.git\refs\remotes,['origin'],[]
+C:\Users\Densa\OneDrive\Документы\pth\.git\refs\remotes\origin,[],['main']
+C:\Users\Densa\OneDrive\Документы\pth\.git\refs\tags,[],[]
+C:\Users\Densa\OneDrive\Документы\pth\.vscode,[],['settings.json']
+C:\Users\Densa\OneDrive\Документы\pth\Eighth_sem,"['classwork', 'HW']",[]
+C:\Users\Densa\OneDrive\Документы\pth\Eighth_sem\classwork,[],"['get_user.py', 'habuba.txt', 'p1.json', 'p2.json', 'parse.py']"
+C:\Users\Densa\OneDrive\Документы\pth\Eighth_sem\HW,[],['Recursive_pickle(Rick).py']
+C:\Users\Densa\OneDrive\Документы\pth\Fifth_sem,[],"['dict_gen.py', 'fibonacci_gen.py', 'path_to_file.py', 'prime_nums.py']"
+C:\Users\Densa\OneDrive\Документы\pth\First_Sem,"['1. Multiplication', '2. Check_the_triangle', '3. Check_num', '4. Game_guess_number']",[]
+C:\Users\Densa\OneDrive\Документы\pth\First_Sem\1. Multiplication,[],['multitable.py']
+C:\Users\Densa\OneDrive\Документы\pth\First_Sem\2. Check_the_triangle,[],['triangle.py']
+C:\Users\Densa\OneDrive\Документы\pth\First_Sem\3. Check_num,[],['simple_num.py']
+C:\Users\Densa\OneDrive\Документы\pth\First_Sem\4. Game_guess_number,[],['guess_my_num.py']
+C:\Users\Densa\OneDrive\Документы\pth\Fourth_sem,[],"['Dict.py', 'Trans_matrix.py']"
+C:\Users\Densa\OneDrive\Документы\pth\Second_sem,"['1. Hex', '2. Fractions']",[]
+C:\Users\Densa\OneDrive\Документы\pth\Second_sem\1. Hex,[],['MakeHex.py']
+C:\Users\Densa\OneDrive\Документы\pth\Second_sem\2. Fractions,[],['ReturnFraction.py']
+C:\Users\Densa\OneDrive\Документы\pth\Seventh_sem,"['files', 'script', 'text', 'video', '__pycache__']","['funcs.py', 'main.py']"
+C:\Users\Densa\OneDrive\Документы\pth\Seventh_sem\files,"['script', 'text', 'video']",[]
+C:\Users\Densa\OneDrive\Документы\pth\Seventh_sem\files\script,[],"['Cimeq.py', 'Jocoq.py', 'Mivizag.py']"
+C:\Users\Densa\OneDrive\Документы\pth\Seventh_sem\files\text,[],"['Lecerov.txt', 'Qufo.txt', 'Wumifid.txt']"
+C:\Users\Densa\OneDrive\Документы\pth\Seventh_sem\files\video,[],"['Dogu.mp4', 'Rugov.mp4', 'Yamofa.mp4']"
+C:\Users\Densa\OneDrive\Документы\pth\Seventh_sem\script,[],[]
+C:\Users\Densa\OneDrive\Документы\pth\Seventh_sem\text,[],[]
+C:\Users\Densa\OneDrive\Документы\pth\Seventh_sem\video,[],[]
+C:\Users\Densa\OneDrive\Документы\pth\Seventh_sem\__pycache__,[],['funcs.cpython-311.pyc']
+C:\Users\Densa\OneDrive\Документы\pth\Sixth_sem,['__pycache__'],"['data_check.py', 'main.py']"
+C:\Users\Densa\OneDrive\Документы\pth\Sixth_sem\__pycache__,[],['data_check.cpython-311.pyc']
+C:\Users\Densa\OneDrive\Документы\pth\Third_sem,"['1. Camping_with_friends', '2. Dupes', '3. Top10', '4. Racks']",[]
+C:\Users\Densa\OneDrive\Документы\pth\Third_sem\1. Camping_with_friends,[],['Camping.py']
+C:\Users\Densa\OneDrive\Документы\pth\Third_sem\2. Dupes,[],['list_with_duplicates.py']
+C:\Users\Densa\OneDrive\Документы\pth\Third_sem\3. Top10,[],"['file.txt', 'ten_words.py']"
+C:\Users\Densa\OneDrive\Документы\pth\Third_sem\4. Racks,[],['heavy_racks.py']
