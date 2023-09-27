@@ -1,5 +1,6 @@
 from random import randint as rnd
 import os, csv
+from typing import Callable
 
 def csv_filler(_min, _max, file_name):
         file = open(f'{file_name}.csv', 'w', encoding='UTF-8', newline='')
