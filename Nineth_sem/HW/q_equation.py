@@ -1,20 +1,21 @@
+import json
 from typing import Callable
 import csv
 
 
 def my_decorator(func: Callable):
     def wrapper():
-        result = []
+        result = {}
         data = []
         with open('file_01.csv', 'r') as fr:
             csv_reader = csv.reader(fr)
             for line in csv_reader:
                 data.append(line)
         for row in data:
-            result.append(func(int(row[0]), int(row[1]), (int(row[2]))))
-        with open('file_02.csv', 'w', newline='', encoding="UTF-8") as fw:
-            csv_writer = csv.writer(fw)
-            csv_writer.writerow(result)
+            result.setdefault(str(row), func(int(row[0]),int(row[1]),int(row[2])))
+        with open('file_02.json', 'w', encoding="UTF-8") as fw:
+            json.dump(result, fw, indent=4, ensure_ascii=False)
+
     return wrapper
 
 @my_decorator
