@@ -5,9 +5,9 @@
 
 from Animal import Dog, Cat
 
-kot = Cat("Felix", "Cat", "Meeeeeeow!")
-g_boy = Dog("Chappi", "Dog", "Bark-bark!")
+kot = Cat("Felix", "Meow!")
+g_boy = Dog("Chappi", "Bark-bark!")
 
-print(kot.get_animal() + ", " + kot.get_meow())
-print(g_boy.get_animal() + ", " + g_boy.get_bark())
+print(kot.get_animal() + ", " + kot.get_meow()) # Felix, Cat, Meow!
+print(g_boy.get_animal() + ", " + g_boy.get_bark()) # Chappi, Dog, Bark-bark!
 
