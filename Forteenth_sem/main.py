@@ -59,5 +59,5 @@ class Employee(Person):
         self.id = id
 
     def get_level(self):
-        s = sum(num for num in str(self.id))
+        s = sum(int(num) for num in str(self.id))
         return s % self.MAX_LEVEL
